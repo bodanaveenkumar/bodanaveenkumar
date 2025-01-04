@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bodanaveenkumar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning BTech
-- 💞️ I’m looking to collaborate on coding skills
+- 👀 I’m interested in verilog coding
+- 🌱 I’m currently doing MTech 
+- 💞️ I’m looking to collaborate on verilog coding skills
 - 📫 How to reach me naveenkumarboda77@gmail.com
 
 <!---
